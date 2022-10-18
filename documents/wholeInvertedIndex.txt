@@ -1,0 +1,8 @@
+(CAP ,(1,List(text03.txt)))
+(omar ,(1,List(text02.txt)))
+(sana ,(2,List(text01.txt, text02.txt)))
+(software ,(1,List(text03.txt)))
+(tst ,(1,List(text01.txt)))
+(word0 ,(1,List(text01.txt)))
+(word2 ,(1,List(text02.txt)))
+(word3 ,(2,List(text01.txt, text02.txt)))
